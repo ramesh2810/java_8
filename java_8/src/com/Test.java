@@ -5,7 +5,6 @@ public class Test {
 		System.out.println("Hello");
 		System.out.println("java");
 		System.out.println("wewew");
-		System.out.println("micro");
 		
 	
 
