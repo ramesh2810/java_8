@@ -8,7 +8,7 @@ public class Test {
 		System.out.println("micro");
 		System.out.println("Github");
 		System.out.println("java");
-		System.out.println("String");
+	
 
 	}
 
